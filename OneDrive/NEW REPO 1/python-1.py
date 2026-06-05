@@ -1,9 +1,8 @@
 # #                                   ~BANK MANAGEMENT SYSTEM~
-#
-from tokenize import blank_re
 
+# vcgfctyhg
 
-# INTRO PAGE~
+# INTRO PAGE
 
 class Bank:
     balance = 1000
